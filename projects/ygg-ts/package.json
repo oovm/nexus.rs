@@ -1,6 +1,14 @@
 {
-    "private": true,
+    "name": "yggdrasil-rt",
+    "description": "Yggdrasil runtime for node and browser",
+    "version": "0.0.0",
+    "main": "src/lib.ts",
+    "keywords": [
+        "parser"
+    ],
+    "author": "aster",
+    "license": "MIT",
     "scripts": {
-        "p": "cargo publish --allow-dirty"
+
     }
 }
